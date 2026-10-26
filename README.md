@@ -1,15 +1,11 @@
 # SMX_Consultoria
-hola john
-
-hola Diego
-
 # HackDefense Security
 
 > "Blindamos tu infraestructura digital antes de que los ciberdelincuentes la pongan a prueba."
 
 Somos una consultora tecnológica especializada en hacking ético, análisis forense digital y cumplimiento normativo de seguridad. Nuestro enfoque principal es ayudar a las empresas a detectar vulnerabilidades críticas antes de que sufran brechas de datos.
 
-Los integrantes de este proyecto somos **Diego Alejandro Martinez Rojas** y **John Erick Millan Cobacho**.
+Los integrantes de este proyecto somos **Diego Alejandro Martinez Rojas** y **John Eric Millan Cobacho**.
 
 ---
 
