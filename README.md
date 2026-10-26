@@ -9,7 +9,7 @@ hola Diego
 
 Somos una consultora tecnológica especializada en hacking ético, análisis forense digital y cumplimiento normativo de seguridad. Nuestro enfoque principal es ayudar a las empresas a detectar vulnerabilidades críticas antes de que sufran brechas de datos.
 
-Los integrantes de este proyecto somos **Lucía Martínez** y **David Rivas**.
+Los integrantes de este proyecto somos **Diego Alejandro Martinez Rojas** y **John Erick Millan Cobacho**.
 
 ---
 
