@@ -11,7 +11,7 @@ Tiene 24 empleados y trabaja desde una oficina central donde estan los departame
 ### 3. ¿Que recursos y servicios informaticos utiliza actualmente?
 Usa ordenadores para el dia a dia, una red de oficina para conectar equipos y salir a internet, un dispositivo NAS para guardar archivos compartidos, distintos servicios en la nube y una pagina web corporativa alojada fuera de la empresa.
 
-### 4. ¿Que funciones creeis que desempena la informatica en el funcionamiento diario de esta empresa? Indicad al menos tres ejemplos.
+### 4. ¿Que funciones creeis que desempeña la informatica en el funcionamiento diario de esta empresa? Indicad al menos tres ejemplos.
 La informatica es clave para que todo funcione sin parones en el dia a dia:
 - **Gestion de pedidos y logistica:** permite registrar pedidos de las tiendas, controlar el stock y organizar los envios.
 - **Trabajo en equipo y archivos:** con el NAS y los servicios en la nube los departamentos pueden acceder y compartir documentos sin perder versiones.
