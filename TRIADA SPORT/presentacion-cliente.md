@@ -1,3 +1,5 @@
+## DIEGO MARTINEZ Y JOHN ERIC MILLAN ##
+
 # TRIADA SPORT #
 
 ## Actividad 1. Conocemos al cliente ##
